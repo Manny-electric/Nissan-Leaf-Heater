@@ -1,7 +1,7 @@
 Nissan Leaf PTC heater
 
 Connections
-https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen.jpg
+![alt text](https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen.jpg?raw=true)
 
 LV:
 	1: batt pos. (+12V)
@@ -31,7 +31,7 @@ byte 1: errors
 byte 2: HV Current (0,2A/bit)
 
 PCB
-https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen_pcb.jpg
+![alt text](https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen_pcb.jpg?raw=true)
  
 1: batt neg.(GND)
 2: LIN bus
