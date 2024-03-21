@@ -1,5 +1,5 @@
 Nissan Leaf PTC heater
-
+
 Connections
 https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen.jpg
 
@@ -15,7 +15,6 @@ The HV connector uses an interlock detention. So the two small pins need to be s
 The LNK304GN is used as a buck converter to generate 16V.
 Using a multimeter on the diode setting, the HV input will show open in the correct polarity and 1.5V is the wrong polarity.
 
-
 LIN bus:
 The heater problely uses mlx80031/51 LIN bus transceiver. 
 
@@ -31,8 +30,6 @@ adres	byte 1	byte 2	byte 3	byte 4	CRC
 byte 1: errors
 byte 2: HV Current (0,2A/bit)
 
-
-
 PCB
 https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen_pcb.jpg
  
