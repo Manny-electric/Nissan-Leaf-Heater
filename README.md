@@ -5,14 +5,16 @@ Connections
 
 LV:
 	1: batt pos. (+12V)
-	2: nc
-	3: batt neg.(GND)
-	4: LIN bus
-	5: nc
+ 	2: nc
+  	3: batt neg.(GND)
+   	4: LIN bus
+    	5: nc
  
 HV:
 The HV connector uses an interlock detention. So the two small pins need to be shorted together.
+
 The LNK304GN is used as a buck converter to generate 16V.
+
 Using a multimeter on the diode setting, the HV input will show open in the correct polarity and 1.5V is the wrong polarity.
 
 LIN bus:
