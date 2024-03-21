@@ -37,8 +37,8 @@ byte 2: HV Current (0,2A/bit)
 PCB
 ![alt text](https://github.com/Manny-electric/Nissan-Leaf-Heater/blob/main/aansluitingen_pcb.jpg?raw=true)
  
-1: batt neg.(GND)
-2: LIN bus
+1: batt neg.(GND)<br />
+2: LIN bus<br />
 3: batt pos. (+12V)<br />
 <br />
 A: HV interlock<br />
